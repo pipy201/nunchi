@@ -1,4 +1,4 @@
-#눈치 Nun-Chi
+# 눈치 Nun-Chi
 
 눈치있게 이미지 추론 하여, 구글 이미지 검색을 통해 결과를 보여 준다
 \
@@ -11,7 +11,7 @@
 - Tornado
 - Tensorflow - inception-v3 모델 사용
 
-##빠른 테스트
+## 빠른 테스트
 - python tornado_api_server.py
 - template/index.htlm 을 예쁘게 다시 만든다 :D
 
