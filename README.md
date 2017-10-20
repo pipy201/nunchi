@@ -9,7 +9,7 @@
 - osx, ubuntu
 - Anaconda Python 3.6
 - Tornado
-- Tensorflow
+- Tensorflow - inception-v3 모델 사용
 
 ##빠른 테스트
 - python tornado_api_server.py
