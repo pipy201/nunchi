@@ -1,4 +1,4 @@
 .DS_Store
 .idea/
-image_temp/*
-README.md
+/image_temp/*
+/iimagenet_model/*
